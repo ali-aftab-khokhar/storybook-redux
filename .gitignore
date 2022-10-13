@@ -9,6 +9,7 @@ package-lock.json
 tailwind.config.json
 .npmrc
 postcss.config.json
+/src/stories/assets
 
 # testing
 /coverage
